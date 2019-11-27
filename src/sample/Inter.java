@@ -5,6 +5,8 @@ public class Inter implements ClientDetails,LocalOffice
 	@Override
 	public void uk() {
 		System.out.println("UK country: Vasan");
+		System.out.println("Ragavan also");
+		System.out.println("now mano is handling");
 		
 	}
 
